@@ -57,11 +57,6 @@
     <artifactId>jackson-databind</artifactId>
     <version>2.9.8</version>
 </dependency>
-  	<dependency>
-  		<groupId>trainingCourse</groupId>
-  		<artifactId>AutomationPractice</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   </dependencies>
 <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
